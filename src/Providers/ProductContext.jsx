@@ -109,3 +109,5 @@ return (
         { children }
     </ProdContext>
 )
+
+export { ProdProvider, useProdContext}

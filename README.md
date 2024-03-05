@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Selling
+
+a Selling Loja de vendas de produtos derivados populares em desenvolvimento, onde o cliente podera filtrar os produtos desejados por categoria, nome, maior ou menor preço e por promoções.
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
